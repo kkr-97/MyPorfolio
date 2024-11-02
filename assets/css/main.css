@@ -5141,10 +5141,10 @@ a img {
 }
 .section-title h2 {
     font-weight: 700;
-    color: #1488CC;
+    color: #1d66c2;
     font-size: 45px;
     margin: 0 0 15px;
-    border-left: 5px solid #1488CC;
+    border-left: 5px solid #1d66c2;
     padding-left: 15px;
 }
 .section-title {
@@ -5180,7 +5180,7 @@ a img {
   position: absolute;
   top: 0px;
   left: 20px;
-  border-left: 1px dashed #1488CC;
+  border-left: 1px dashed #1d66c2;
   bottom: 0;
 }
 .resume-box .icon {
@@ -5189,7 +5189,7 @@ a img {
   position: absolute;
   left: 0;
   right: 0;
-  color: #1488CC;
+  color: #1d66c2;
   line-height: 40px;
   background: #ffffff;
   text-align: center;
@@ -5198,7 +5198,7 @@ a img {
   border-radius: 50%;
 }
 .resume-box .time {
-  background: #1488CC;
+  background: #1d66c2;
   color: #ffffff;
   font-size: 10px;
   padding: 2px 10px;
@@ -5209,7 +5209,7 @@ a img {
 }
 .resume-box h5 {
   font-weight: 700;
-  color: #1488CC;
+  color: #1d66c2;
   font-size: 16px;
   margin-bottom: 10px;
 }
@@ -5222,7 +5222,7 @@ a img {
     position: absolute;
     top: 0px;
     left: 20px;
-    border-left: 1px dashed #1488CC;
+    border-left: 1px dashed #1d66c2;
     bottom: 0;
 }
 
@@ -5230,9 +5230,9 @@ a img {
     display: inline-block;
     margin: 10px 0;
     padding: 5px;
-    color: #1488CC;
+    color: #1d66c2;
     background-color: transparent;
-    border: 1px solid #1488CC;
+    border: 1px solid #1d66c2;
     border-radius: 10px;
     text-align: center;
     outline: 0;
